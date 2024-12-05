@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/milestone3/static/css/main.a8de678c.css",
+    "main.js": "/milestone3/static/js/main.a4cf1710.js",
+    "index.html": "/milestone3/index.html",
+    "main.a8de678c.css.map": "/milestone3/static/css/main.a8de678c.css.map",
+    "main.a4cf1710.js.map": "/milestone3/static/js/main.a4cf1710.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8de678c.css",
+    "static/js/main.a4cf1710.js"
+  ]
+}
